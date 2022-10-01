@@ -1,0 +1,43 @@
+{
+  "drinks": [
+    {
+      "id": "Bc7o1p2",
+      "name": "Caffe Americano",
+      "category": "Hot Drinks",
+      "price": "3.99",
+      "url": "https://www.starbucks.com/menu/product/406/hot"
+    },
+    {
+      "id": "DQrdPOl",
+      "name": "Starbucks Cold Brew",
+      "category": "Cold Drinks",
+      "price": "2.99",
+      "url": "https://www.starbucks.com/menu/product/2121255/iced"
+    }
+  ],
+  "food": [
+    {
+      "id": "dk30N3J",
+      "name": "Spinach Wrap",
+      "category": "Breakfast",
+      "price": "5.99",
+      "url": "https://www.starbucks.com/menu/product/371/single"
+    },
+    {
+      "id": "19Jd36r",
+      "name": "Blueberry Muffin",
+      "category": "Bakery",
+      "price": "4.99",
+      "url": "https://www.starbucks.com/menu/product/1036/single"
+    }
+  ],
+  "merch": [
+    {
+      "id": "dk49Jl",
+      "name": "Logo Hot Cup",
+      "category": "Merchandise",
+      "price": "9.99",
+      "url": "https://www.starbucks.com/menu/product/2123291/single"
+    }
+  ]
+}
